@@ -35,7 +35,7 @@ export default function Navbar() {
           ))}
 
           <a
-            href="/cv.pdf"
+            href="/CV.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 rounded-xl bg-white px-4 py-2 text-sm font-medium text-black transition hover:opacity-90"

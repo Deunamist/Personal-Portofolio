@@ -39,7 +39,7 @@ export const projects: Project[] = [
       "web-based book waqf platform that streamlines book donation and request processes through three main roles: users, admins, and super admins. The system provides transaction tracking, digital certificates, and administrative tools to ensure transparency and accountability.",
     image: "/images/projects/Wajit.jpeg",
     technologies: ["Next.js", "TypeScript", "Tailwind", "Docker"],
-    show: "https://drive.google.com/file/d/1pu34MzUkV2Spu1DHxN6R1sn_BWJdX3zi/view"
+    show: "https://wajit-dispusipda-jabar.vercel.app/"
   },
   {
     title: "Project-Based Virtual Intern : Frontend Developer Core Initiative x Rakamin Academy",

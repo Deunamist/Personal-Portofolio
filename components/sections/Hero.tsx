@@ -8,7 +8,7 @@ export default function Hero() {
       {/* Left Content */}
       <div>
         <span className="rounded-full border border-[#464646] bg-[#222222] px-4 py-2 text-sm text-neutral-300">
-          Final Year Information Technology Student
+          Information Technology Fresh Graduate
         </span>
 
         <h1 className="mt-6 text-5xl font-bold leading-tight md:text-7xl">
@@ -48,7 +48,7 @@ export default function Hero() {
       <div className="flex justify-center">
         <div className="rounded-3xl border border-[#323232] bg-[#222222] p-6">
           <Image
-            src="/images/profile.jpg"
+            src="/images/profile.png"
             alt="Profile"
             width={380}
             height={380}

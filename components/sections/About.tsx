@@ -8,7 +8,7 @@ export default function About() {
       <div className="grid gap-6 lg:grid-cols-3">
         <div className="rounded-3xl border border-[#323232] bg-[#222222] p-8 lg:col-span-2">
           <p className="leading-8 text-neutral-400">
-            Final-year Information Technology student with a strong interest in Web Development, UI/UX Design, and
+            Fresh graduate of Telkom University's Information Technology Study Program with a strong interest in Web Development, UI/UX Design, and
             Internet of Things (IoT). Experienced in building web applications using ReactJS, NextJS, Laravel, and
             ExpressJS through academic and internship projects. Passionate about building user-centered digital
             solutions and continuously exploring new technologies to solve real-world problems through innovation and collaboration.
